@@ -1,5 +1,5 @@
 //This is a C language program that can take a number to find table of it and also takes a number upto which you have to print table.
-//If user gives x and n and it will print upto x * 1 = x  to  x * n = x*n
+//If user gives x and n and it will print upto x * 1 = x  to  x * n = x*n.
 
 #include <stdio.h>
 int main()
